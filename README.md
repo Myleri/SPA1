@@ -1,3 +1,3 @@
-# Example Template for SPA1
+# SPA1 INTERNET AND SURVEILLANCE
 
-pages chnaged to master
+Final Site uploaded for Thursdays class. 27/07.
